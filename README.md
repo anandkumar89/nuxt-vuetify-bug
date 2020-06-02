@@ -14,3 +14,11 @@ cd ..
 firebase emulators:start
 ```
 
+-------------------------------------------
+
+**setting up firebase emulators**
+run following in root directory
+```
+firebase init emulators
+```
+proceed and select emulators for hosting, functions
