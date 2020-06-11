@@ -8,12 +8,12 @@ npm install
 
 cd ../src/
 npm install 
-npm run dev
+npm run build
 
 cd ..
 firebase emulators:start
 ```
-
+One could go with Regular `nuxt build` and `nuxt-start` 
 -------------------------------------------
 
 **setting up firebase emulators**
