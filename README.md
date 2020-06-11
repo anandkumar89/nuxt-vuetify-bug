@@ -14,6 +14,7 @@ cd ..
 firebase emulators:start
 ```
 One could go with Regular `nuxt build` and `nuxt-start` 
+
 -------------------------------------------
 
 **setting up firebase emulators**
